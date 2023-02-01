@@ -43,7 +43,6 @@ public class PedidoCriar2 extends JFrame{
         setIconImage(img.getImage());
         start();
         //preencher as duas listas
-
         setVisible(true); //torna a página visivel
         okButton.addActionListener(new ActionListener() {
             @Override

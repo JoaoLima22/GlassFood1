@@ -1,20 +1,8 @@
-package Sistema.main;
-
 import Sistema.conn.ConnectionFactory;
 import Sistema.forms.Menu;
-import Sistema.forms.cliente.ClienteForm;
-import Sistema.models.Produto;
-import Sistema.repository.ProdutoDAO;
-
-import java.util.ArrayList;
-import java.util.List;
 
 public class Executavel {
-    //public static Inicio inic = new Inicio();
-
     public static void main(String[] args) {
-        //inic.setVisible(true);
-
         System.out.println("Equipe: João Vitor Lima, Mateus Couto e Vagner.");
 
 
