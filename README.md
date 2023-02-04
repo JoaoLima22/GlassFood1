@@ -32,5 +32,5 @@ modificados e deletados.
 - 5 Passo: Executar o arquivo "Executavel.java", localizado em "...\GlassFood\GlassFood1\src\main\java\Sistema\Executavel.java".
 
 -> Link do vídeo explicativo no Youtube: https://youtu.be/tcEafTMhFE8
--O gravador deu uma cortada no final do video, deixando de fora a parte em que eu mostro o método "entregar",
+- O gravador deu uma cortada no final do video, deixando de fora a parte em que eu mostro o método "entregar",
 que possui como parâmetro um entregador, além de quando eu mostro o diagrama;
